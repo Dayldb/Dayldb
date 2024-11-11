@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Games and Proxies
 <html>
 <head>
 <title>Iceman</title>
@@ -36,5 +36,3 @@
 
 
 
-</body>
-</html>
